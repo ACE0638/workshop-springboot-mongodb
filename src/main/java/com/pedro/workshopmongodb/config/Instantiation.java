@@ -9,7 +9,6 @@ import com.pedro.workshopmongodb.repository.UserRepository;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.boot.CommandLineRunner;
 import org.springframework.context.annotation.Configuration;
-import org.springframework.data.annotation.Id;
 
 import java.text.SimpleDateFormat;
 import java.util.Arrays;
